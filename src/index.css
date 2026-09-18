@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.cover-img{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/src/assets/bookings.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.active-color{
+    color: #f72585;
+}
+.reviews p{
+    background-color: #ebebeb;
+}
